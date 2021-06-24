@@ -1,6 +1,6 @@
 .container {
-  margin: auto;
   max-width: 500px;
+  margin: auto;
   font-family: sans-serif;
 }
 
@@ -9,8 +9,8 @@
 }
 .nav-links {
   display: flex;
-  list-style: none;
   padding-left: 0;
+  list-style: none;
 }
 .nav-link-item {
   padding-right: 2rem;
@@ -20,7 +20,7 @@
 }
 
 .site-title {
-  font-size: 3rem;
   color: gray;
   font-weight: 700;
+  font-size: 3rem;
 }

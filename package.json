@@ -23,6 +23,8 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
+    "prettier": "^2.3.1",
+    "prettier-stylelint": "^0.4.2",
     "stylelint": "^13.13.1",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^22.0.0",
